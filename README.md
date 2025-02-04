@@ -1,4 +1,4 @@
-# timer-recorder-camera
+# timer recorder camera, I intend to make some videos about biology, I like to make my own tools
 - câmara USB com um temporizador ajustável
 - Script em Python para Windows 10 que grava vídeo de uma câmara USB com um temporizador ajustável. O programa permite:  
 
